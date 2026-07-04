@@ -1,5 +1,4 @@
 # Food_Ordering_System
-# Food Ordering System
 
 ## Overview
 
